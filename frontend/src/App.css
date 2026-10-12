@@ -1,0 +1,35 @@
+.app {
+  max-width: 40rem;
+  margin: 0 auto;
+  padding: 3rem 1.5rem;
+  font-family: system-ui, sans-serif;
+  line-height: 1.5;
+}
+
+.app h1 {
+  margin: 0 0 0.5rem;
+  font-size: 1.75rem;
+}
+
+.muted {
+  color: #5b6472;
+  margin: 0 0 1.5rem;
+  font-size: 0.95rem;
+}
+
+.card {
+  border: 1px solid #d8dee9;
+  border-radius: 0.75rem;
+  padding: 1.25rem 1.5rem;
+  background: #fff;
+}
+
+.card h2 {
+  margin: 0 0 0.75rem;
+  font-size: 1.1rem;
+}
+
+.error {
+  color: #b42318;
+  margin: 0 0 0.75rem;
+}
